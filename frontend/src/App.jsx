@@ -52,7 +52,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>CRUD de Items</h1>
+      <h1>CRUD de Itemsssss</h1>
 
       {error && <p className="error-banner">{error}</p>}
 
